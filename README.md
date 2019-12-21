@@ -1,2 +1,3 @@
 # flutter-todo
-flutter-todo
+
+FlutterでTODOを作ろうというリポジトリです。
